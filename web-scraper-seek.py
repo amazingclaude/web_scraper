@@ -235,4 +235,4 @@ pre_data = {'job_title': job_title,
 # COMMAND ----------
 
 pre_data_df = pd.DataFrame(pre_data)
-pre_data_df
+pre_data_df.head(2)
